@@ -1,0 +1,3 @@
+[submodule "application/modules/mdl"]
+	path = application/modules/mdl
+	url = https://github.com/michail1982/mdl.git
